@@ -32,5 +32,3 @@ def get_fruityvice_data(this_fruit_choice):
 
 #New section to display frutyvice api response
 streamlit.header("Fruityvice Fruit Advice!")
-try:
-  
